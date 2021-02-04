@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/Ppang0405/Ppang0405/blob/master/code2.gif">
+  <img src="https://github.com/Ppang0405/Ppang0405/blob/main/code2.gif">
 </p>
