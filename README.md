@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1011253519648559185/1211205979535048755/tenor-3339875071.gif?ex=65ed5a78&is=65dae578&hm=4f36ad75e64493440b1e3dc651d623432452465dc11204448b2358d93e01ae66&">
 </p>
-
-
+<!--
+![](https://komarev.com/ghpvc/?username=Ppang0405)
+-->
 <!--
 ![tempy_jobs](https://github.com/Ppang0405/Ppang0405/assets/33455900/bbb004d1-eb54-4cd0-8ffb-2f2fc12f0181)
 ![offy](https://github.com/Ppang0405/Ppang0405/assets/33455900/66656e23-eafd-4b31-a7e6-2d042e2895f4)
